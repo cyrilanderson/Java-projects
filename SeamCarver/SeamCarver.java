@@ -1,5 +1,5 @@
 //import Picture;
-//http://algs4.cs.princeton.edu/code/edu/princeton/cs/algs4/Picture.java.html
+import edu.princeton.cs.algs4.Picture
 
 import java.awt.Color;
 import java.lang.Math;
